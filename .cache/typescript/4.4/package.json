@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "dependencies": {
+    "types-registry": "^0.1.687"
+  },
+  "devDependencies": {
+    "@types/domready": "^1.0.0"
+  }
+}

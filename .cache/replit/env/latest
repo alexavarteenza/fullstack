@@ -1,0 +1,123 @@
+declare -gx LOCALE_ARCHIVE=/usr/lib/locale/locale-archive
+declare -gx HOSTNAME=7742e09273b2
+declare -gx NIX_PROFILES='/nix/var/nix/profiles/default /home/runner/.nix-profile'
+declare -gx OBJDUMP=objdump
+declare -gx propagatedNativeBuildInputs=''
+declare -gx depsHostHostPropagated=''
+declare -gx REPL_OWNER_ID=27237425
+declare -gx XDG_CONFIG_HOME=/home/runner/.config
+declare -gx DOCKER_CONFIG=/home/runner/System-Bot/.config/docker
+declare -gx REPLIT_RIPPKGS_INDICES=/nix/store/73awzgwmrga8y0dl84cp30h40965wyk5-rippkgs-indices
+declare -gx REPLIT_PID1_FLAG_REPLIT_RTLD_LOADER=1
+declare -gx NIX_PS1='\[\033[01;34m\]\w\[\033[00m\]\$ '
+declare -gx SIZE=size
+declare -gx nativeBuildInputs=''
+declare -gx __EGL_VENDOR_LIBRARY_FILENAMES=/nix/store/12hy4z5yyfbnm5rpgvv9g452mvnhrg1i-mesa-21.2.6-drivers/share/glvnd/egl_vendor.d/50_mesa.json
+declare -gx REPL_OWNER=officialrizki01
+declare -gx NIX_LDFLAGS='-rpath /nix/store/wymwl7f16jflh09v5gmz5rp4vfl1pizj-nix-shell/lib64 -rpath /nix/store/wymwl7f16jflh09v5gmz5rp4vfl1pizj-nix-shell/lib '
+declare -gx __ETC_PROFILE_SOURCED=1
+declare -gx NODE_EXTRA_CA_CERTS=/etc/ssl/certs/ca-certificates.crt
+declare -gx STRIP=strip
+declare -gx _=/nix/store/jd1y449cf66yx5d1hwyjvc4562b1p1am-coreutils-9.0/bin/env
+declare -gx HOST_PATH=/nix/store/rvdwqyys0nj4gw8ryxjpyz256m1wr1xd-nodejs-12.22.9/bin:/nix/store/b2fkpfy1wq8na7kv3ldxxqpqsxyrpqdn-typescript-language-server-3.3.2/bin:/nix/store/ylaybq7lj0yr3w5jcmrba9rhb8nlcflz-yarn-1.22.17/bin:/nix/store/skfxhzc19nzw66r3ljh3g2vvl54ray5h-jest-cli-23.6.0/bin:/nix/store/jd1y449cf66yx5d1hwyjvc4562b1p1am-coreutils-9.0/bin:/nix/store/jjvw20r6pz3ff7pn91yhvfx8s7izsqan-findutils-4.8.0/bin:/nix/store/ndd6gh8zigjy0j68arj7nyrbcw4kcw01-diffutils-3.8/bin:/nix/store/bpg0ia8nkavzw7s66avi1f9nz72i1p3r-gnused-4.8/bin:/nix/store/df3ff57sbkgbdhc4ar19zs4y0hrhggii-gnugrep-3.7/bin:/nix/store/4fv981732jqzirah3h2y6ynmlsfbxb37-gawk-5.1.1/bin:/nix/store/k5ifa08z0qlkknnb8s1bdh2kdrx0qmd0-gnutar-1.34/bin:/nix/store/dcird3wn9xywy49w3qq1hpjwvjfn3lph-gzip-1.11/bin:/nix/store/s85iyc3p9nbinwvwx9rcqirf1m68zpmm-bzip2-1.0.6.0.2-bin/bin:/nix/store/msncxcf5lgy5by9cqjyxchxd26x47d64-gnumake-4.3/bin:/nix/store/bm7jr70d9ghn5cczb3q0w90apsm05p54-bash-5.1-p8/bin:/nix/store/gi3psbgxbf2fmvgi36pmw77nnh58vq3l-patch-2.7.6/bin:/nix/store/sqb20f4rk80lw21j4is85qwljlphmn3g-xz-5.2.5-bin/bin
+declare -gx REPLIT_NIX_CHANNEL=stable-21_11
+declare -gx REPL_IMAGE=gcr.io/marine-cycle-160323/nix:bf8590a3e2f0a8b70b7ca175eeed9074dffbfca9
+declare -gx XDG_DATA_HOME=/home/runner/System-Bot/.local/share
+declare -gx PROMPT_DIRTRIM=2
+declare -gx depsBuildTargetPropagated=''
+declare -gx REPL_SLUG=System-Bot
+declare -gx REPLIT_DB_URL=https://kv.replit.com/v0/eyJhbGciOiJIUzUxMiIsImlzcyI6ImNvbm1hbiIsImtpZCI6InByb2Q6MSIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJjb25tYW4iLCJleHAiOjE3MjcxNjYxMTYsImlhdCI6MTcyNzA1NDUxNiwiZGF0YWJhc2VfaWQiOiI2NjQxMjZlMy04ZDEzLTQ2OTktOTNjZC1jOGUyNjBjNTFiMzUifQ.h-Vf3A5a4Xdv_k7Zh0mI7p3IpUcdteNqEKWEm5_TIemEublPIB8UhUtZbMt1jrLr59JylU3Mf7zBdKmiZMv6qw
+declare -gx depsBuildTarget=''
+declare -gx STRINGS=strings
+declare -gx XDG_DATA_DIRS=/nix/store/bqmg7l0jn6nhgjlfc981g1imzb6ny8xl-patchelf-0.13/share
+declare -gx LIBGL_DRIVERS_PATH=/nix/store/12hy4z5yyfbnm5rpgvv9g452mvnhrg1i-mesa-21.2.6-drivers/lib/dri
+declare -gx depsHostHost=''
+declare -gx CC=gcc
+declare -gx REPL_ID=664126e3-8d13-4699-93cd-c8e260c51b35
+declare -gx READELF=readelf
+declare -gx depsTargetTarget=''
+declare -gx NIX_CC=/nix/store/2qwnn6lizc9d119kp3zig3q19gbfm4n6-gcc-wrapper-10.3.0
+declare -gx NIXPKGS_ALLOW_UNFREE=1
+declare -gx NIX_PATH=nixpkgs=/home/runner/.nix-defexpr/channels/nixpkgs-stable-21_11:/home/runner/.nix-defexpr/channels
+declare -gx NIX_BUILD_TOP=/tmp
+declare -gx REPLIT_CLUSTER=sisko
+declare -gx REPL_IDENTITY_KEY=k2.secret.cw83DH-gBA2CgEH3Saxr0alX1sfycLUdVsa6fCyjQvMuyGo_RljFoSjtjxCJ7z7HwOsJfNELLdQXEAA36eFH2A
+declare -gx out=/nix/store/wymwl7f16jflh09v5gmz5rp4vfl1pizj-nix-shell
+declare -gx NIX_INDENT_MAKE=1
+declare -gx REPLIT_PID1_VERSION=0.0.0-c8b6d8c
+declare -gx REPL_PUBKEYS='{"crosis-ci":"7YlpcYh82oR9NSTtSYtR5jDL4onNzCGJGq6b+9CuZII=","crosis-ci:1":"7YlpcYh82oR9NSTtSYtR5jDL4onNzCGJGq6b+9CuZII=","crosis-ci:latest":"7YlpcYh82oR9NSTtSYtR5jDL4onNzCGJGq6b+9CuZII=","prod":"tGsjlu/BJvWTgvMaX7acuUb7AO1dXOrRiuk7y083RFE=","prod:1":"tGsjlu/BJvWTgvMaX7acuUb7AO1dXOrRiuk7y083RFE=","prod:2":"8uGN+vfszlnV93/HCSHlVLG0xddMlPkir1Ni4JKT4+w=","prod:3":"9+MCOSHQSQlcodXoot8dC8NLhc862nLkx1/VMsbY2h8=","prod:4":"8uGN+vfszlnV93/HCSHlVLG0xddMlPkir1Ni4JKT4+w=","prod:5":"9+MCOSHQSQlcodXoot8dC8NLhc862nLkx1/VMsbY2h8=","prod:latest":"tGsjlu/BJvWTgvMaX7acuUb7AO1dXOrRiuk7y083RFE=","vault-goval-token":"D5jJoMx1Ml54HM92NLgXl+MzptwDqbSsfyFG6f52g9E=","vault-goval-token:1":"D5jJoMx1Ml54HM92NLgXl+MzptwDqbSsfyFG6f52g9E=","vault-goval-token:latest":"D5jJoMx1Ml54HM92NLgXl+MzptwDqbSsfyFG6f52g9E="}'
+declare -gx NIX_CFLAGS_COMPILE=' -frandom-seed=wymwl7f16j -isystem /nix/store/rvdwqyys0nj4gw8ryxjpyz256m1wr1xd-nodejs-12.22.9/include -isystem /nix/store/rvdwqyys0nj4gw8ryxjpyz256m1wr1xd-nodejs-12.22.9/include'
+declare -gx phases=nobuildPhase
+declare -gx doCheck=''
+declare -gx LANG=en_US.UTF-8
+declare -gx REPL_HOME=/home/runner/System-Bot
+declare -gx DISPLAY=:0
+declare -gx REPLIT_RTLD_LOADER=1
+declare -gx NIX_STORE=/nix/store
+declare -gx NIX_HARDENING_ENABLE='fortify stackprotector pic strictoverflow format relro bindnow'
+declare -gx NIX_BUILD_CORES=2
+declare -gx REPLIT_CLI=/nix/store/awin2nvcdzbdds0ynk5m19gsprxnd3yq-pid1-0.0.1/bin/replit
+declare -gx REQUESTS_CA_BUNDLE=/etc/ssl/certs/ca-certificates.crt
+declare -gx builder=/nix/store/bm7jr70d9ghn5cczb3q0w90apsm05p54-bash-5.1-p8/bin/bash
+read -r _new_path <<< "/nix/store/12hy4z5yyfbnm5rpgvv9g452mvnhrg1i-mesa-21.2.6-drivers/lib:/nix/store/i4rmd8dk8xmpmblkl78pw8iim9byj6yi-libglvnd-1.3.4/lib:/nix/store/00iw8s3557npbh6xk0ahafs57r43mklj-pulseaudio-14.2/lib"
+#LD_LIBRARY_PATH=/nix/store/12hy4z5yyfbnm5rpgvv9g452mvnhrg1i-mesa-21.2.6-drivers/lib:/nix/store/i4rmd8dk8xmpmblkl78pw8iim9byj6yi-libglvnd-1.3.4/lib:/nix/store/00iw8s3557npbh6xk0ahafs57r43mklj-pulseaudio-14.2/lib
+if [ -e "/run/replit/env/last" ]; then read -r _last_path < <(\grep '^#LD_LIBRARY_PATH=' /run/replit/env/last | cut -f 2 -d =); fi
+_user_components="$(\tr : $'\n' <<< "${LD_LIBRARY_PATH:-}" |\grep -xv -f <(\tr : $'\n' <<< "${_last_path}") |\tr $'\n' :)"
+declare -gx LD_LIBRARY_PATH="${_user_components}${_new_path}"
+declare -gx shell=/nix/store/bm7jr70d9ghn5cczb3q0w90apsm05p54-bash-5.1-p8/bin/bash
+declare -gx depsBuildBuildPropagated=''
+declare -gx CONFIG_SHELL=/nix/store/bm7jr70d9ghn5cczb3q0w90apsm05p54-bash-5.1-p8/bin/bash
+declare -gx AS=as
+declare -gx REPLIT_BASHRC=/nix/store/im3371wb3b5wkq8ybcwydn89cbw30csv-replit-bashrc/bashrc
+declare -gx depsTargetTargetPropagated=''
+declare -gx GIT_EDITOR=replit-git-editor
+declare -gx COLORTERM=truecolor
+declare -gx stdenv=/nix/store/z7wz8q1i0j4jmfpn87wpakwma6q0k90n-stdenv-linux
+declare -gx propagatedBuildInputs=''
+declare -gx configureFlags=''
+declare -gx buildInputs='/nix/store/rvdwqyys0nj4gw8ryxjpyz256m1wr1xd-nodejs-12.22.9 /nix/store/b2fkpfy1wq8na7kv3ldxxqpqsxyrpqdn-typescript-language-server-3.3.2 /nix/store/ylaybq7lj0yr3w5jcmrba9rhb8nlcflz-yarn-1.22.17 /nix/store/skfxhzc19nzw66r3ljh3g2vvl54ray5h-jest-cli-23.6.0'
+declare -gx REPLIT_DEV_DOMAIN=664126e3-8d13-4699-93cd-c8e260c51b35-00-1lh1yfl37xiwv.sisko.replit.dev
+declare -gx REPL_LANGUAGE=nix
+declare -gx outputs=out
+declare -gx DIRENV_CONFIG=/etc/direnv
+declare -gx OBJCOPY=objcopy
+declare -gx REPLIT_PID1_FLAG_NIXMODULES_BEFORE_REPLIT_NIX=1
+declare -gx strictDeps=''
+declare -gx npm_config_prefix=/home/runner/System-Bot/.config/npm/node_global
+declare -gx REPLIT_LD_LIBRARY_PATH=/nix/store/rvdwqyys0nj4gw8ryxjpyz256m1wr1xd-nodejs-12.22.9/lib:/nix/store/b2fkpfy1wq8na7kv3ldxxqpqsxyrpqdn-typescript-language-server-3.3.2/lib:/nix/store/skfxhzc19nzw66r3ljh3g2vvl54ray5h-jest-cli-23.6.0/lib
+declare -gx HOME=/home/runner
+declare -gx REPL_IDENTITY=v2.public.Q2lRMk5qUXhNalpsTXkwNFpERXpMVFEyT1RrdE9UTmpaQzFqT0dVeU5qQmpOVEZpTXpVU0QyOW1abWxqYVdGc2NtbDZhMmt3TVJvS1UzbHpkR1Z0TFVKdmRDSWtOalkwTVRJMlpUTXRPR1F4TXkwME5qazVMVGt6WTJRdFl6aGxNall3WXpVeFlqTTFPTEc0L2d4YUZBb0ZjMmx6YTI4U0MybHVkR1Z5WVdOMGFYWmwVNdxTXyyAUEMLlg9d1KzgYIShqBYnN84D5vxqAjyokK1VTu_dm1olZvzfVojzSRAoh5YuBv5LL4vm7T1yVDcN.R0FFaUJtTnZibTFoYmhLYkNIWXlMbkIxWW14cFl5NVJNbVF6VTFoQ1dsZEZVakJrTVd4U1lVZFpNMkZ0T1c1VFZrNUZVVmR2ZDBzeVRuaE5NRXB2VWtkU2JtUldUbkJSVjJoMlVUQmtRbFpYUmt0YU1qbHlWRzF3V2sxRk1WVlRWRXBoVmtVeE1GUXdaRkpsUlRFMVRVUkNUMkZ0Y3pGVVJsSnlaV3hyZVZWWVVscGxiV2h6VkZkd1dtUXhiRFpXV0doYVlXc3dlRkl5YUVaVk1GRjVUMWN4WVdKWGVIRlpWbVJIWXpKT2RHSkVXbWhOYlhRelZGWktkbEpyT1UxU2VsRjJXak5rYUZGdWJFcFNiVTE1WWtod2FFMXFhR2hTUms1MlZFZEdXRTVVUW1GWFJYQnZWMVJPVTJOSFVuUldWMnhQVmpOT05WUkhOVU5OVm14MFpVaENXbVZVVms1WmVrcHZaVVpXUlZGdFJsaFhSMmh2Vld4ak5FMHhaRlZoUmtwb1ZqRlZNRlJHYUc1T1JrcEpVMnRTV0ZOSVFsUlZWRTV5Wld4YVZsZHFVbEpXVlZwUVZFWmpNV0l4Vm5GaVJ6WTJjVWsxVldWbWNqTmpibGt0ZVhwb0xUaDJXa2xOY1ZkQ1pEQlFZMjl0UlRsak56aG9VMDVsUjJ4dldVMVhiRXQ1YWpoWGEweEpRMHQxZEVGRVEyVlFXbWx1TW1ORWFtSk5WMlJCZEV3NVRYcDFZbTlQTGxJd1JrWmhWVXAwVkc1YWFXSlVSbTlaYldoTldXdEdkVmRZYkUxaWEwbDRWMWN4TkdOR2JEVk9Wa3BPWWxaSk1sWlVSbXROUjFaMFUyeGFWR0p1UWxkV2JURTBWVEZTY2xWdFJrNVdia0pYVlRKMFQxWkdXbGxoUlZaV1pXdEtjbFZxUVRGVFZrWnlVMnhhVGxKc2NGTldiWEJQV1ZkU1YySXphRk5pVjJoVFZtcEtiMlJXVmxoa1IzUnBZa1UxV0ZsclZrOVdiVXBWWWtWV1ZtRnJTa2hhUjNoelZteEtkVkpzU2xkV1dFSktWakp3UTJNeFpITlNiR2hvVTBad1UxUlZaRk5STVZwSFdrVmtVbUpWV2tsWGExVjRWVEF4ZEZWcmRGZE5WbHBVVlZSS1NtUXhVbkpoUmtwWFlURndkbFpXV210aU1rcHpWRzVLYVZORldsaFpiWFIzVkRGc1YxVnNaRTVOV0VKSVYydFdNR0ZyTVhKWGJHeFhVbTFvV0ZaRVJtRmtSMVpKWTBaa1YySldTa2xXUmxKTFZESk5lVk5xV2xaaGVteFlWRmQ0UzJJeFdYbE5WRkpVVFd0YVIxUldWbXRXUjBwR1YyeGFXbFo2UlRCWFZscHpUbXhHVlZKdGNHbFNXRUkyVmtSR1YxbFhSWGxUYkd4V1ZrVmFWMWxyV21GamJIQklaVVZhYkZKdVFrWldNakYzWVVkRmVHTkhPVmRoYTFwVVZYcEdUbVZHV25OVGJFWlhVa1ZLTTFZeWRHRlhiVTUwWTBVeFVGZEZOSHBhUlZaYVRsWndSVkpZVW1saVZGWlJWREJrWVZWdFNsaGhSRXBVVWxad2VGWnJWbkprUjFKRllVVndhV0pXY0ZGWFJFbDRWbFV4ZEZsNlVtcFhTRUpHVld0a1ZrNUdXa1ZpUmxKb1RWWktObGR0ZUc5aVYxWnlZbnBDV0ZaVk1UWlhiWE4zWld4a1ZrNVlTbFJXUjFKWlYxZHJkMDVXU25KVmJUbFBZVlJHVEZScVNUVlNSWGh6VTFoa1UyRXhjRzlXYkZaM1RVWmFTRTVYUm1oV01IQldWVzB3TlZkdFNsaFZha3BXWVd0d1VGVXhXazlrVm1SMFVteE9VMlZ0WnpBPQ
+declare -gx NIX_ENFORCE_NO_NATIVE=1
+declare -gx SOURCE_DATE_EPOCH=315532800
+declare -gx NIX_BINTOOLS_WRAPPER_TARGET_HOST_x86_64_unknown_linux_gnu=1
+declare -gx doInstallCheck=''
+declare -gx system=x86_64-linux
+declare -gx SSL_CERT_FILE=/etc/ssl/certs/ca-certificates.crt
+declare -gx REPLIT_LD_AUDIT=/nix/store/n5x1kgbz8zjh63ymsijbislyi1n1hir6-replit_rtld_loader-1/rtld_loader.so
+declare -gx NIX_CC_WRAPPER_TARGET_HOST_x86_64_unknown_linux_gnu=1
+declare -gx depsBuildBuild=''
+declare -gx patches=''
+declare -gx REPLIT_ENVIRONMENT=production
+declare -gx AR=ar
+declare -gx LD=ld
+read -r _new_path <<< "/home/runner/System-Bot/.config/npm/node_global/bin:/home/runner/System-Bot/node_modules/.bin:/nix/store/bccsypsvjskpzsgzww8bzjgqmck4bjbf-bash-interactive-5.1-p8/bin:/nix/store/bqmg7l0jn6nhgjlfc981g1imzb6ny8xl-patchelf-0.13/bin:/nix/store/2qwnn6lizc9d119kp3zig3q19gbfm4n6-gcc-wrapper-10.3.0/bin:/nix/store/6r5h4h7nqx73m87j5b9sjwy2x9kyri0k-gcc-10.3.0/bin:/nix/store/csz8v8xi2f644j26n84i20dnqmq43sih-glibc-2.33-117-bin/bin:/nix/store/jd1y449cf66yx5d1hwyjvc4562b1p1am-coreutils-9.0/bin:/nix/store/spm7d6ncyx2k5w8yl6clzynv2s4wf1kp-binutils-wrapper-2.35.2/bin:/nix/store/h19zwlkrp6b0hp3ypbqdcggnyarn3af6-binutils-2.35.2/bin:/nix/store/rvdwqyys0nj4gw8ryxjpyz256m1wr1xd-nodejs-12.22.9/bin:/nix/store/b2fkpfy1wq8na7kv3ldxxqpqsxyrpqdn-typescript-language-server-3.3.2/bin:/nix/store/ylaybq7lj0yr3w5jcmrba9rhb8nlcflz-yarn-1.22.17/bin:/nix/store/skfxhzc19nzw66r3ljh3g2vvl54ray5h-jest-cli-23.6.0/bin:/nix/store/jjvw20r6pz3ff7pn91yhvfx8s7izsqan-findutils-4.8.0/bin:/nix/store/ndd6gh8zigjy0j68arj7nyrbcw4kcw01-diffutils-3.8/bin:/nix/store/bpg0ia8nkavzw7s66avi1f9nz72i1p3r-gnused-4.8/bin:/nix/store/df3ff57sbkgbdhc4ar19zs4y0hrhggii-gnugrep-3.7/bin:/nix/store/4fv981732jqzirah3h2y6ynmlsfbxb37-gawk-5.1.1/bin:/nix/store/k5ifa08z0qlkknnb8s1bdh2kdrx0qmd0-gnutar-1.34/bin:/nix/store/dcird3wn9xywy49w3qq1hpjwvjfn3lph-gzip-1.11/bin:/nix/store/s85iyc3p9nbinwvwx9rcqirf1m68zpmm-bzip2-1.0.6.0.2-bin/bin:/nix/store/msncxcf5lgy5by9cqjyxchxd26x47d64-gnumake-4.3/bin:/nix/store/bm7jr70d9ghn5cczb3q0w90apsm05p54-bash-5.1-p8/bin:/nix/store/gi3psbgxbf2fmvgi36pmw77nnh58vq3l-patch-2.7.6/bin:/nix/store/sqb20f4rk80lw21j4is85qwljlphmn3g-xz-5.2.5-bin/bin:/nix/store/9f08zpicz8yxq56z5qrbvmhmg4b2yxd8-pid1/bin:/nix/store/1lr1hvx3rgl6bp6l8spq2n51q2kr8igr-replit-runtime-path/bin:/home/runner/.nix-profile/bin:/home/runner/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
+#PATH=/home/runner/System-Bot/.config/npm/node_global/bin:/home/runner/System-Bot/node_modules/.bin:/nix/store/bccsypsvjskpzsgzww8bzjgqmck4bjbf-bash-interactive-5.1-p8/bin:/nix/store/bqmg7l0jn6nhgjlfc981g1imzb6ny8xl-patchelf-0.13/bin:/nix/store/2qwnn6lizc9d119kp3zig3q19gbfm4n6-gcc-wrapper-10.3.0/bin:/nix/store/6r5h4h7nqx73m87j5b9sjwy2x9kyri0k-gcc-10.3.0/bin:/nix/store/csz8v8xi2f644j26n84i20dnqmq43sih-glibc-2.33-117-bin/bin:/nix/store/jd1y449cf66yx5d1hwyjvc4562b1p1am-coreutils-9.0/bin:/nix/store/spm7d6ncyx2k5w8yl6clzynv2s4wf1kp-binutils-wrapper-2.35.2/bin:/nix/store/h19zwlkrp6b0hp3ypbqdcggnyarn3af6-binutils-2.35.2/bin:/nix/store/rvdwqyys0nj4gw8ryxjpyz256m1wr1xd-nodejs-12.22.9/bin:/nix/store/b2fkpfy1wq8na7kv3ldxxqpqsxyrpqdn-typescript-language-server-3.3.2/bin:/nix/store/ylaybq7lj0yr3w5jcmrba9rhb8nlcflz-yarn-1.22.17/bin:/nix/store/skfxhzc19nzw66r3ljh3g2vvl54ray5h-jest-cli-23.6.0/bin:/nix/store/jjvw20r6pz3ff7pn91yhvfx8s7izsqan-findutils-4.8.0/bin:/nix/store/ndd6gh8zigjy0j68arj7nyrbcw4kcw01-diffutils-3.8/bin:/nix/store/bpg0ia8nkavzw7s66avi1f9nz72i1p3r-gnused-4.8/bin:/nix/store/df3ff57sbkgbdhc4ar19zs4y0hrhggii-gnugrep-3.7/bin:/nix/store/4fv981732jqzirah3h2y6ynmlsfbxb37-gawk-5.1.1/bin:/nix/store/k5ifa08z0qlkknnb8s1bdh2kdrx0qmd0-gnutar-1.34/bin:/nix/store/dcird3wn9xywy49w3qq1hpjwvjfn3lph-gzip-1.11/bin:/nix/store/s85iyc3p9nbinwvwx9rcqirf1m68zpmm-bzip2-1.0.6.0.2-bin/bin:/nix/store/msncxcf5lgy5by9cqjyxchxd26x47d64-gnumake-4.3/bin:/nix/store/bm7jr70d9ghn5cczb3q0w90apsm05p54-bash-5.1-p8/bin:/nix/store/gi3psbgxbf2fmvgi36pmw77nnh58vq3l-patch-2.7.6/bin:/nix/store/sqb20f4rk80lw21j4is85qwljlphmn3g-xz-5.2.5-bin/bin:/nix/store/9f08zpicz8yxq56z5qrbvmhmg4b2yxd8-pid1/bin:/nix/store/1lr1hvx3rgl6bp6l8spq2n51q2kr8igr-replit-runtime-path/bin:/home/runner/.nix-profile/bin:/home/runner/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+if [ -e "/run/replit/env/last" ]; then read -r _last_path < <(\grep '^#PATH=' /run/replit/env/last | cut -f 2 -d =); fi
+_user_components="$(\tr : $'\n' <<< "${PATH:-}" |\grep -xv -f <(\tr : $'\n' <<< "${_last_path}") |\tr $'\n' :)"
+declare -gx PATH="${_user_components}${_new_path}"
+declare -gx DENO_TLS_CA_STORE=system
+declare -gx RANLIB=ranlib
+declare -gx NIX_BINTOOLS=/nix/store/spm7d6ncyx2k5w8yl6clzynv2s4wf1kp-binutils-wrapper-2.35.2
+declare -gx nobuildPhase='echo
+echo "This derivation is not meant to be built, aborting";
+echo
+exit 1
+'
+declare -gx REPLIT_SUBCLUSTER=interactive
+declare -gx USER=runner
+declare -gx NODE_PATH=/nix/store/rvdwqyys0nj4gw8ryxjpyz256m1wr1xd-nodejs-12.22.9/lib/node_modules:/nix/store/b2fkpfy1wq8na7kv3ldxxqpqsxyrpqdn-typescript-language-server-3.3.2/lib/node_modules:/nix/store/skfxhzc19nzw66r3ljh3g2vvl54ray5h-jest-cli-23.6.0/lib/node_modules
+declare -gx CXX=g++
+declare -gx NM=nm
+declare -gx GIT_ASKPASS=replit-git-askpass
+declare -gx XDG_CACHE_HOME=/home/runner/System-Bot/.cache
+declare -gx shellHook=''

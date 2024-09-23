@@ -1,0 +1,1 @@
+# COPYRIGHTS Alexa Varteenza/QueenDev
